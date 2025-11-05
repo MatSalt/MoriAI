@@ -1,0 +1,32 @@
+{
+  "id": "f298eab0-dad7-4607-8a28-71a5726e6775",
+  "title": "Picking Persimmons",
+  "cover_image": "/data/image/f298eab0-dad7-4607-8a28-71a5726e6775/0_page_1.png",
+  "voice_id": "kEG70mQz62azKWpUWUdJ",
+  "status": "success",
+  "pages": [
+    {
+      "id": "6a2bc440-efbd-4b0f-b5e7-ecf116fc9b73",
+      "index": 1,
+      "type": "video",
+      "content": "/data/video/f298eab0-dad7-4607-8a28-71a5726e6775/page_1.mp4",
+      "dialogues": [
+        {
+          "id": "7e103b15-90b9-4b80-a305-040a9b691909",
+          "index": 1,
+          "text": "I pick a persimmon. Red, red fruit. So yummy!",
+          "part_audio_url": "/data/sound/a4a7e1d1-fb8f-4b68-8386-a90d6f7c9d12/06e86a42-4464-478e-bcfc-29d57906a68c.mp3"
+        },
+        {
+          "id": "12600d45-3928-4d5e-ab5a-72d3c9ed27d5",
+          "index": 2,
+          "text": "Yum, yum!",
+          "part_audio_url": "/data/sound/a4a7e1d1-fb8f-4b68-8386-a90d6f7c9d12/86e06e61-26f8-416e-8985-26db63e00dd4.mp3"
+        }
+      ],
+      "fallback_image": "/data/image/f298eab0-dad7-4607-8a28-71a5726e6775/0_page_1.png"
+    }
+  ],
+  "is_default": false,
+  "created_at": "2025-11-02T03:29:17.059236"
+}
